@@ -1,2 +1,3 @@
 Hii there, this is the second chapter.
+Okay, I am adding this line for the new branch created by me in the process.
 So, this time I wanted to add some extra sentences to the second chapter so that I can see weather the changes have been recongnized by the git or not.
